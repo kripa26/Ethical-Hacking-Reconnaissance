@@ -1,0 +1,6 @@
+﻿
+Name                                           Type   TTL   Section    IPAddress                                
+----                                           ----   ---   -------    ---------                                
+stanford.edu                                   A      1800  Answer     171.67.215.200                           
+
+

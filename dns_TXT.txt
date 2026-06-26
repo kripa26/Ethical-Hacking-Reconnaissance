@@ -1,0 +1,182 @@
+﻿
+Name                                     Type   TTL   Section    Strings                                  
+----                                     ----   ---   -------    -------                                  
+stanford.edu                             TXT    1800  Answer     {TAILSCALE-scyG2dkta4GC30jIuPOW}         
+stanford.edu                             TXT    1800  Answer     {atlassian-domain-verification=C9ho3V/RWW
+                                                                 ifTCqh8sF3L0PI7jVZWAL9dCxVL1gzJvr6SYJCKBQ
+                                                                 8nCX38z50vRQ6}                           
+stanford.edu                             TXT    1800  Answer     {airtable-verification=94cdd68161a8e41e92
+                                                                 cc5dd7abde8eae}                          
+stanford.edu                             TXT    1800  Answer     {e2ma-verification=d1ueb}                
+stanford.edu                             TXT    1800  Answer     {google-site-verification=1HuKdQQTxv1R8v4
+                                                                 dxihLzji-mH23d2KchIeaxsljN6Q}            
+stanford.edu                             TXT    1800  Answer     {asv_domain=3c0fdba17820a84cf2eaf5c024677
+                                                                 5e0}                                     
+stanford.edu                             TXT    1800  Answer     {htBOpqv5il135Xfa09GRiVHY09Xb9qXNj6o5lAfj
+                                                                 8gNoBvyyGu5rSb4gvSj9lCUwY1NF0+wL2BO1ZDIcG
+                                                                 IpADQ==}                                 
+stanford.edu                             TXT    1800  Answer     {e2ma-verification=vnjbb}                
+stanford.edu                             TXT    1800  Answer     {brevo-code:97c04c03c676317dbc22a7ee10348
+                                                                 3a6}                                     
+stanford.edu                             TXT    1800  Answer     {e2ma-verification=c00eb}                
+stanford.edu                             TXT    1800  Answer     {e2ma-verification=nw5fb}                
+stanford.edu                             TXT    1800  Answer     {00DVG000007nUP7=1TBVG0000000LkP}        
+stanford.edu                             TXT    1800  Answer     {e2ma-verification=b00eb}                
+stanford.edu                             TXT    1800  Answer     {bwZknJMLNV1XuaJAyUmKlAFrdZo+p5yDlTNACmDU
+                                                                 WhgtyihfJc8oWMnK7hWLreN+ozU3mX91yHHzZx0ad
+                                                                 JPPPg==}                                 
+stanford.edu                             TXT    1800  Answer     {e2ma-verification=dy8eb}                
+stanford.edu                             TXT    1800  Answer     {google-site-verification=JM6F1JtgpITjPAa
+                                                                 tlXWl2mpzq_zobtnQEwKsbGA0DIk}            
+stanford.edu                             TXT    1800  Answer     {00DVG000007ihZt=1TBVG0000000Ldx}        
+stanford.edu                             TXT    1800  Answer     {notion-domain-verification=zGjaM9fWZoGRy
+                                                                 OnvaxST0hfeCzfxvxzJnKMTN69sYJw}          
+stanford.edu                             TXT    1800  Answer     {e2ma-verification=qmrgb}                
+stanford.edu                             TXT    1800  Answer     {airtable-verification=6deae5f718f685ac8c
+                                                                 8c3c37418aafcf}                          
+stanford.edu                             TXT    1800  Answer     {e2ma-verification=m0ggb}                
+stanford.edu                             TXT    1800  Answer     {e2ma-verification=5g5eb}                
+stanford.edu                             TXT    1800  Answer     {e2ma-verification=4x8eb}                
+stanford.edu                             TXT    1800  Answer     {autodesk-domain-verification=pXMpLf7JP-8
+                                                                 6kN9Zt5jI}                               
+stanford.edu                             TXT    1800  Answer     {00DcY000007mV77=1TBcY00000007W9}        
+stanford.edu                             TXT    1800  Answer     {e2ma-verification=zv1eb}                
+stanford.edu                             TXT    1800  Answer     {e2ma-verification=07pfb}                
+stanford.edu                             TXT    1800  Answer     {airtable-verification=0a746053a028476f6d
+                                                                 1671cbc9016585}                          
+stanford.edu                             TXT    1800  Answer     {00Ddy000003GfFB=1TBdy0000000Dzl}        
+stanford.edu                             TXT    1800  Answer     {e2ma-verification=8uqeb}                
+stanford.edu                             TXT    1800  Answer     {e2ma-verification=fq1fb}                
+stanford.edu                             TXT    1800  Answer     {e2ma-verification=98lgb}                
+stanford.edu                             TXT    1800  Answer     {e2ma-verification=n4agb}                
+stanford.edu                             TXT    1800  Answer     {e2ma-verification=nbxfb}                
+stanford.edu                             TXT    1800  Answer     {e2ma-verification=diffb}                
+stanford.edu                             TXT    1800  Answer     {airtable-verification=b8f5e3c2468d582f89
+                                                                 6b4a8f0839dd8a}                          
+stanford.edu                             TXT    1800  Answer     {brevo-code:033215cd835c1e9ddc21dfb479c54
+                                                                 b76}                                     
+stanford.edu                             TXT    1800  Answer     {vmware-cloud-verification-2abfb849-6039-
+                                                                 461b-aa8b-eee2629dd6e4}                  
+stanford.edu                             TXT    1800  Answer     {google-site-verification=bamHrkKBqpOQ8ou
+                                                                 XQe0uFSuvVUFTB_TLju7gSCNq_Qw}            
+stanford.edu                             TXT    1800  Answer     {detectify-verification=bc8e96f8fbf64ced0
+                                                                 57d0f44eff83381}                         
+stanford.edu                             TXT    1800  Answer     {7A06A26ABB86CDADD0ED6FBF1464DF6B}       
+stanford.edu                             TXT    1800  Answer     {e2ma-verification=w4lgb}                
+stanford.edu                             TXT    1800  Answer     {6ce2e56c0743c0db12fbb8d03c7359}         
+stanford.edu                             TXT    1800  Answer     {google-site-verification=zwyVSZ2CSXXUndq
+                                                                 Tu5itEDFvp58bOFVBPAbtrIondBU}            
+stanford.edu                             TXT    1800  Answer     {samsung-domain-verification=7b810e85-b3d
+                                                                 6-4c1c-b33c-44f242e81537}                
+stanford.edu                             TXT    1800  Answer     {Sendinblue-code:bde1f306529e82fd2ccf9857
+                                                                 fc09aa98}                                
+stanford.edu                             TXT    1800  Answer     {e2ma-verification=fq1fb-remove}         
+stanford.edu                             TXT    1800  Answer     {wiz-domain-verification=2957e22f41cc73b1
+                                                                 9d44177ecf39bd1a1926a1e6362011b8f83e65aab
+                                                                 5d6ef1a}                                 
+stanford.edu                             TXT    1800  Answer     {neat-pulse-domain-verification-9X4x1kX=3
+                                                                 f8a8c19-1634-41e7-8511-4587459ff713}     
+stanford.edu                             TXT    1800  Answer     {jamf-site-verification=YL4ixnZvLipoTrfg2
+                                                                 RUwsg}                                   
+stanford.edu                             TXT    1800  Answer     {e2ma-verification=avqab}                
+stanford.edu                             TXT    1800  Answer     {airtable-verification=22e64691170fba22a5
+                                                                 76b309bf587b87}                          
+stanford.edu                             TXT    1800  Answer     {google-site-verification=kyvps-t3mjXwz5H
+                                                                 BQa7oO40qvObbV8z_B1IoySwe-GY}            
+stanford.edu                             TXT    1800  Answer     {00DcY000007nqhN=1TBcY00000007mH}        
+stanford.edu                             TXT    1800  Answer     {airtable-verification=13ac52fb202035dbad
+                                                                 35b0ab24e598b4}                          
+stanford.edu                             TXT    1800  Answer     {3VCR5VZOJKXDX3AFKS202RQVEDHPD1WB04T0QNAB
+                                                                 }                                        
+stanford.edu                             TXT    1800  Answer     {airtable-verification=7cdd67720483f4801f
+                                                                 c65d998968476e}                          
+stanford.edu                             TXT    1800  Answer     {openai-domain-verification=dv-wVTix4O4ZS
+                                                                 dYwFCU3lk1NLi6}                          
+stanford.edu                             TXT    1800  Answer     {v=spf1 ip4:171.67.219.64/27             
+                                                                 ip4:171.67.224.0/28 ip4:171.67.43.137    
+                                                                 ip4:171.67.43.138 ip4:171.67.43.139      
+                                                                 ip4:171.67.43.140 ip4:171.67.43.141  ,   
+                                                                 include:_spf.google.com                  
+                                                                 include:_spf.qualtrics.com               
+                                                                 include:icpbounce.com                    
+                                                                 include:spf.protection.outlook.com       
+                                                                 ip4:1, 48.163.149.245                    
+                                                                 ip4:148.163.153.235  ip4:148.163.135.119 
+                                                                 ip4:148.163.139.119 ip4:67.231.149.169   
+                                                                 ip4:67.231.157.125 ip4:67.231.152.67     
+                                                                 ip4:208.84.65.155 ?all}                  
+stanford.edu                             TXT    1800  Answer     {e2ma-verification=8z0eb}                
+stanford.edu                             TXT    1800  Answer     {google-site-verification=C6QZVcR4K-mSTqL
+                                                                 E_9uVC7twZdys_BRJLLVFwgGIG3E}            
+stanford.edu                             TXT    1800  Answer     {pardot604641=4bbe27c356474886816017d9b5a
+                                                                 ea8f21f2d3c3b651096960379a441342c51fb}   
+stanford.edu                             TXT    1800  Answer     {google-site-verification=XBIgNMnjRT9eOch
+                                                                 FldQx7rsHG9ROchX682SfSM0_1lE}            
+stanford.edu                             TXT    1800  Answer     {onetrust-domain-verification=2983144927f
+                                                                 6450ea12b5557b2080dae}                   
+stanford.edu                             TXT    1800  Answer     {brevo-code:09357c2630559d902817770f34dbf
+                                                                 0b1}                                     
+stanford.edu                             TXT    1800  Answer     {e2ma-verification=k4dgb}                
+stanford.edu                             TXT    1800  Answer     {remarkable-domain-verification=d359b4b2-
+                                                                 89f8-46f3-862a-6008b632497b}             
+stanford.edu                             TXT    1800  Answer     {00Dg0000006IKxz=1TBWG0000000Q49}        
+stanford.edu                             TXT    1800  Answer     {google-site-verification=hIsj3ke1PYviQQm
+                                                                 1ig-VMAlmA07GWc5vYeh2qJT56OA}            
+stanford.edu                             TXT    1800  Answer     {mgverify=c7c142ba8b95199619ad561a75f165a
+                                                                 d285c322b3892f9621c083b0293fd0da0}       
+stanford.edu                             TXT    1800  Answer     {h1-domain-verification=aV4vQvSRHvQxGhvdz
+                                                                 29L2ozsKDTReL7qKDgdjhPgzA5E7UC6}         
+stanford.edu                             TXT    1800  Answer     {e2ma-verification=7z0eb}                
+stanford.edu                             TXT    1800  Answer     {stripe-verification=984c5a4eb98ae34bbaf6
+                                                                 0c12403c1d8889d4ad02b2dc672232a89b21f905b
+                                                                 c20}                                     
+stanford.edu                             TXT    1800  Answer     {amazonses:7IodrIPH40wdjQxliaAOOqSX8rn4q7
+                                                                 lSiSvuFZPwUnY=}                          
+stanford.edu                             TXT    1800  Answer     {airtable-verification=866b719f2d2dab4393
+                                                                 f0a7eb83f4d8ba}                          
+stanford.edu                             TXT    1800  Answer     {sending_domain1097582=7dcf00de01f5fc8307
+                                                                 de59194e0a8b462cbfa2b5e32d35bfc9e5269b93d
+                                                                 ca7a6}                                   
+stanford.edu                             TXT    1800  Answer     {onetrust-domain-verification=1e6b4a2989b
+                                                                 7412499dca24f8188396b}                   
+stanford.edu                             TXT    1800  Answer     {adobe-idp-site-verification=4c872117a60d
+                                                                 5c3b7d132914730b3f3e2189c67a217450a2f3bc1
+                                                                 8a683a98f78}                             
+stanford.edu                             TXT    1800  Answer     {bluebeam-verification=67www8belw9ml0gclw
+                                                                 nde5xr14of7s}                            
+stanford.edu                             TXT    1800  Answer     {e2ma-verification=vaogb}                
+stanford.edu                             TXT    1800  Answer     {e2ma-verification=a00eb}                
+stanford.edu                             TXT    1800  Answer     {airtable-verification=6ae90a183923b17d9f
+                                                                 1c76e90e31b4e4}                          
+stanford.edu                             TXT    1800  Answer     {e2ma-verification=6uqeb}                
+stanford.edu                             TXT    1800  Answer     {00D46000000qFgG=1TBVH0000000Ak9}        
+stanford.edu                             TXT    1800  Answer     {pardot884873=1b7cebffc22a290049b6710c062
+                                                                 0e741a3f4d3a720196287a95816f9afaa7695}   
+stanford.edu                             TXT    1800  Answer     {google-site-verification=n-cl_O68vbC-_Um
+                                                                 ufTZMmLLQb9wKnuUo-4FPom4m3iA}            
+stanford.edu                             TXT    1800  Answer     {e2ma-verification=v4lgb}                
+stanford.edu                             TXT    1800  Answer     {D4CE65761A88C03EE2E9841BFF6B8AF0}       
+stanford.edu                             TXT    1800  Answer     {SFMC-6lLIlwvbCaTM80Tq1R1zsnKi9CqM3R6ZPPv
+                                                                 oE6sK}                                   
+stanford.edu                             TXT    1800  Answer     {airtable-verification=bf58597802ed6d32ee
+                                                                 6bcb86a575a186}                          
+stanford.edu                             TXT    1800  Answer     {google-site-verification=p4uNfSaD7rr13xb
+                                                                 A1Q1yW6I0DckXOv1ujjc0FQGjGEM}            
+stanford.edu                             TXT    1800  Answer     {482958E678D10FD3AD1F737F78E8519B}       
+stanford.edu                             TXT    1800  Answer     {e2ma-verification=7x8eb}                
+stanford.edu                             TXT    1800  Answer     {00DcX000004xagH=1TBcX0000000DlF}        
+stanford.edu                             TXT    1800  Answer     {pexip-ms-tenant-domain-verification=3f0a
+                                                                 c106-a365-4d3b-9fb9-2a124f04d0b6}        
+stanford.edu                             TXT    1800  Answer     {anthropic-domain-verification-rrhf1p=E3S
+                                                                 BrctYaemDvHQIrJbKWafVN}                  
+stanford.edu                             TXT    1800  Answer     {e2ma-verification=q57fb}                
+stanford.edu                             TXT    1800  Answer     {00Ddx000003sGMD=1TBdx0000000F0f}        
+stanford.edu                             TXT    1800  Answer     {00DVG000007pOvX=1TBVG0000000Lqr}        
+stanford.edu                             TXT    1800  Answer     {e2ma-verification=ey8eb}                
+stanford.edu                             TXT    1800  Answer     {e2ma-verification=nbxfb-remove}         
+stanford.edu                             TXT    1800  Answer     {blitz=mu-0e24b17b-23dce65a-c0b14b75-e742
+                                                                 cd66}                                    
+stanford.edu                             TXT    1800  Answer     {e2ma-verification=gu1ab}                
+stanford.edu                             TXT    1800  Answer     {e2ma-verification=cvnbb}                
+
+

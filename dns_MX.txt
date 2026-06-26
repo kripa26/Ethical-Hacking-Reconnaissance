@@ -1,0 +1,7 @@
+﻿
+Name                                     Type   TTL   Section    NameExchange                              Preference  
+----                                     ----   ---   -------    ------------                              ----------  
+stanford.edu                             MX     1800  Answer     mxb-00000d07.gslb.pphosted.com            10          
+stanford.edu                             MX     1800  Answer     mxa-00000d07.gslb.pphosted.com            10          
+
+

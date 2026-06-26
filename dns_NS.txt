@@ -1,0 +1,53 @@
+﻿
+Name                           Type   TTL   Section    NameHost                                                        
+----                           ----   ---   -------    --------                                                        
+stanford.edu                   NS     86400 Answer     ns7.dnsmadeeasy.com                                             
+stanford.edu                   NS     86400 Answer     atalante.stanford.edu                                           
+stanford.edu                   NS     86400 Answer     ns5.dnsmadeeasy.com                                             
+stanford.edu                   NS     86400 Answer     avallone.stanford.edu                                           
+stanford.edu                   NS     86400 Answer     ns6.dnsmadeeasy.com                                             
+stanford.edu                   NS     86400 Answer     argus.stanford.edu                                              
+
+Name       : argus.stanford.edu
+QueryType  : A
+TTL        : 1270
+Section    : Additional
+IP4Address : 171.64.7.115
+
+
+Name       : atalante.stanford.edu
+QueryType  : A
+TTL        : 1270
+Section    : Additional
+IP4Address : 171.64.7.61
+
+
+Name       : avallone.stanford.edu
+QueryType  : A
+TTL        : 1270
+Section    : Additional
+IP4Address : 171.64.7.88
+
+
+Name       : argus.stanford.edu
+QueryType  : AAAA
+TTL        : 1270
+Section    : Additional
+IP6Address : 2607:f6d0:0:9113::ab40:773
+
+
+Name       : atalante.stanford.edu
+QueryType  : AAAA
+TTL        : 1270
+Section    : Additional
+IP6Address : 2607:f6d0:0:d32::ab40:73d
+
+
+Name       : avallone.stanford.edu
+QueryType  : AAAA
+TTL        : 1270
+Section    : Additional
+IP6Address : 2607:f6d0:0:9116::ab40:758
+
+
+

@@ -1,0 +1,28 @@
+﻿
+Key                       Value                                                                                        
+---                       -----                                                                                        
+Age                       5417                                                                                         
+Cache-Status              "Netlify Edge"; hit,"Netlify Edge"; hit;detail=p1                                            
+Content-Security-Policy   default-src 'self'; script-src 'nonce-11dU35UdpChO2EZobPYXOu93lt17C0oY' 'unsafe-eval' 'str...
+Link                      </_next/static/media/47df9ba1c7236d3b-s.p.137759vg1sbmi.woff2>; rel=preload; as="font"; cr...
+Netlify-Vary              query=__nextDataReq|_rsc,header=x-nextjs-data|x-next-debug-logging|next-router-prefetch|ne...
+Permissions-Policy        vibrate=(), geolocation=(self), midi=(), notifications=(), push=(), microphone=(), camera=...
+Referrer-Policy           origin-when-cross-origin                                                                     
+Strict-Transport-Security max-age=31536000                                                                             
+Vary                      rsc,next-router-state-tree,next-router-prefetch,next-router-segment-prefetch,Accept-Encoding 
+X-Content-Type-Options    nosniff                                                                                      
+X-Debug-Csp-Nonce         invoked                                                                                      
+X-Frame-Options           DENY                                                                                         
+X-Nextjs-Date             Fri, 26 Jun 2026 05:32:52 GMT                                                                
+X-Nextjs-Prerender        1                                                                                            
+X-Nextjs-Stale-Time       300                                                                                          
+X-Nf-Request-Id           01KW1BTC8ZZFPNZ52ADZDJWSFV                                                                   
+Cache-Control             public,max-age=0,must-revalidate                                                             
+Content-Type              text/html; charset=utf-8                                                                     
+Date                      Fri, 26 Jun 2026 07:03:01 GMT                                                                
+ETag                      "x7acjityp9fxvn-df"                                                                          
+Server                    Netlify                                                                                      
+X-Powered-By              Next.js                                                                                      
+
+
+
